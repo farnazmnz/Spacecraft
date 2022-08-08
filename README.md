@@ -1,4 +1,9 @@
 # Spacecraft
+
+a spacecraft, which has successfully completed its exploration mission, is going to return to planet Earth, and for this it must pass through a number of meteorites.
+Help it evaluate the results of its decisions
+
+
 input: 
 first line :  the number of meteorites ,  coordinates of each one and their constant speed.
 second line : the places where the speed changes and the speed of the spacecraft are given after that.
