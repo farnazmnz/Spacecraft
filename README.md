@@ -3,9 +3,17 @@ input:
 first line :  the number of meteorites ,  coordinates of each one and their constant speed.
 second line : the places where the speed changes and the speed of the spacecraft are given after that.
 
+![image](https://user-images.githubusercontent.com/77280991/183461971-7b95267d-5314-4018-9acc-c602347e180e.png)
+
+
 output:
 output must be made for each unit that the spacecraft travels. First, the time (t), then the coordinates of the ship (R) and after that
 The coordinates of the meteorites (Mi) should be printed and the status of the spacecraft (crashed/safe) should be checked.
 
+![image](https://user-images.githubusercontent.com/77280991/183462054-fbd4b78c-baaa-4816-ae20-9339a4a90c80.png)
 
-![image](https://user-images.githubusercontent.com/77280991/183461857-984c706e-95c6-4c89-9771-6f8bb313b5ca.png)
+![image](https://user-images.githubusercontent.com/77280991/183462351-252aecf3-e885-4a03-9641-914412f03ffd.png)
+
+
+
+ 
